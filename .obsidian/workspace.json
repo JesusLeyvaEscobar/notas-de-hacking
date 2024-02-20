@@ -11,8 +11,12 @@
             "id": "67775e55febbc170",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 16->17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retos-bandit/Level 16->17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retos-bandit/Level 16->17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hola.md"
+                "file": "retos-bandit/Level 16->17.md"
               }
             }
           }
@@ -140,7 +146,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "41bda2f5617fe19b",
+  "active": "67775e55febbc170",
   "lastOpenFiles": [
     "retos-bandit/Level 4->5.md",
     "retos-bandit/Level 7->8.md",
