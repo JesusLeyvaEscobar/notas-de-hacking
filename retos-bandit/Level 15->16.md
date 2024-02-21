@@ -8,7 +8,7 @@ Nota útil: ¿Obtienes “HEARTBEATING” y “Read R BLOCK”? Utilice -ign_eof
 ## Datos de acceso al nivel
 Host al que se va a conectar: **bandit.labs.overthewire.org**.
 Puerto: **2220**.
-Usuario: **bandit14**.
+Usuario: **bandit15**.
 Contraseña: Encontrada en el nivel anterior: `jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt`.
 
 ## Solución
