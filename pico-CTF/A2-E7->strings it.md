@@ -30,8 +30,8 @@ chuyelhacker-picoctf@webshell:~$
 
 ## Notas adicionales
 
-- `strings`->
-- `grep`->
+- `strings`->Nos muestra las cadenas de caracteres imprimibles que se encuentren en el fichero que se le indica.
+- `grep`->Nos ayudo como un "filtro" para buscar en un archivo o pagina, cierta palabra pues elimina la información inútil que no coincida con lo que le indiquemos. Se usa: `grep` + `caracter a buscar`.
 ## Referencias
 
 https://linux.die.net/man/1/strings

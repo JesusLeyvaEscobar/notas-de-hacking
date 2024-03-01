@@ -42,7 +42,7 @@ chuyelhacker-picoctf@webshell:~$
 
 ## Notas adicionales
 
-- `nc`->
+- `nc`->Nos ayudo a acceder a puertos TCP/UDP, ya sea de la misma maquina o de otras maquinas remotas.
 ## Referencias
 
 https://linux.die.net/man/1/nc

@@ -45,8 +45,7 @@ u$
 
 ## Notas adicionales
 
-- `unzip`->
-- `file`->
-- `./`->
+- `unzip`->Este comando saca archivos que se encuentren comprimidos o empaquetados.
+- `file`->Nos ayuda a saber que el tipo y formato de los archivos que se encuentren en el directorio en el que se ejecuta.
 ## Referencias
 

@@ -33,6 +33,6 @@ chuyelhacker-picoctf@webshell:~$
 
 ## Notas adicionales
 
-- `nano`->
+- `nano`->Nos ayudo a ver y editar archivos de texto existentes directamente desde una nueva terminal.
 
 ## Referencias

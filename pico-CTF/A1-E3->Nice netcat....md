@@ -57,6 +57,7 @@ Se uso la pagina de traducción de código Cybercheaf usando la formula:
 - From Charcode
 - Base: 10
 Se obtuvo: `picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}`.
+- `nc`->Nos ayudo a acceder a puertos TCP/UDP, ya sea de la misma maquina o de otras maquinas remotas.
 ## Referencias
 
 https://gchq.github.io/CyberChef/

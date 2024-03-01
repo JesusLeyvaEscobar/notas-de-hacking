@@ -44,7 +44,7 @@ Connection to venus.picoctf.net cl
 
 ## Notas adicionales
 
-- `ls`->
-- `cat`->
+- `ls`->Muestra una lista de archivos y directorios.
+- `cat`->Usado para crear o mostrar el contenido de archivos existentes.
 ## Referencias
 

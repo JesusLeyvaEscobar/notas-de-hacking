@@ -35,7 +35,7 @@ chuyelhacker-picoctf@webshell:~$
 
 ## Notas adicionales
 
-- `nano`->
-- `python`->
+- `nano`->Nos ayudo a ver y editar archivos de texto existentes directamente desde una nueva terminal.
+- `python`->Ejecuta scripts de phyton.
 ## Referencias
 

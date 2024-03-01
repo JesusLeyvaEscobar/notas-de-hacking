@@ -24,6 +24,6 @@ chuyelhacker-picoctf@webshell:~$
 ```
 ## Notas adicionales
 
-
+- `wget`-> Aprendí que este comando nos ayuda a descargar/obtener material que se encuentra en algún sitio web que se indica después de ingresar el comando + `espacio`.
 ## Referencias
 

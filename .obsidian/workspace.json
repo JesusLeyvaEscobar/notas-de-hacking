@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web-p1/P1-E2->where are the robots.md",
+                "file": "pico-CTF/A3-E5->runme.py.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-p1/P1-E2->where are the robots.md",
+                "file": "pico-CTF/A3-E5->runme.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-p1/P1-E2->where are the robots.md",
+                "file": "pico-CTF/A3-E5->runme.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-p1/P1-E2->where are the robots.md"
+                "file": "pico-CTF/A3-E5->runme.py.md"
               }
             }
           }
@@ -161,16 +161,11 @@
   },
   "active": "491b98d0b9362b9d",
   "lastOpenFiles": [
-    "retos-web-p1/P1-E6->Client-side-again.md",
-    "retos-web-p1/P1-E5->picobrowser.md",
-    "retos-web-p1/P1-E4->dont-use-client-side.md",
-    "retos-web-p1/P1-E3->logon.md",
-    "retos-web-p1/P1-E2->where are the robots.md",
-    "retos-web-p1/P1-E1->Insp3ctor.md",
+    "pico-CTF/A3-E7->plumbing.md",
     "pico-CTF/A3-E6->Based.md",
-    "pico-CTF/A3-E4->PW Crack 3.md",
-    "retos-web-p1",
+    "pico-CTF/A3-E5->runme.py.md",
     "pico-CTF/A3-E3->PW Crack 2.md",
+    "pico-CTF/A3-E4->PW Crack 3.md",
     "pico-CTF/A3-E2->PW Crack 1.md",
     "pico-CTF/A3-E1->fixme2.py.md",
     "pico-CTF/A2-E8->what's a net cat?.md",
@@ -178,16 +173,21 @@
     "pico-CTF/A2-E6->fixme1.py.md",
     "pico-CTF/A2-E5->First Grep.md",
     "pico-CTF/A2-E4->convertme.py.md",
-    "retos-bandit/Level 5->6.md",
-    "retos-bandit/Level 6->7.md",
-    "retos-bandit/Level 8->9.md",
-    "retos-bandit/Level 7->8.md",
     "pico-CTF/A2-E3->Codebook.md",
     "pico-CTF/A2-E2->Bases.md",
-    "pico-CTF/A1-E8->Warmed Up.md",
     "pico-CTF/A2-E1->2Warm.md",
+    "pico-CTF/A1-E8->Warmed Up.md",
     "pico-CTF/A1-E7->Lets Warm Up.md",
     "pico-CTF/A1-E6->Magikarp Ground Mission.md",
+    "pico-CTF/A1-E5->Tab, Tab, Attack.md",
+    "pico-CTF/A1-E3->Nice netcat....md",
+    "pico-CTF/A1-E4->Static ain't always noise.md",
+    "pico-CTF/A1-E2->Wave a flag.md",
+    "pico-CTF/A1-E1->Obedient Cat.md",
+    "retos-web-p1/P1-E2->where are the robots.md",
+    "retos-web-p1/P1-E6->Client-side-again.md",
+    "retos-web-p1/P1-E5->picobrowser.md",
+    "retos-web-p1",
     "pico-CTF",
     "retos-bandit",
     "Pruna githuib"
