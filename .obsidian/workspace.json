@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67775e55febbc170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pico-CTF/A1-E1->Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "491b98d0b9362b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pico-CTF/A3-E5->runme.py.md",
+                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pico-CTF/A3-E5->runme.py.md",
+                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pico-CTF/A3-E5->runme.py.md",
+                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pico-CTF/A3-E5->runme.py.md"
+                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md"
               }
             }
           }
@@ -161,9 +148,15 @@
   },
   "active": "491b98d0b9362b9d",
   "lastOpenFiles": [
+    "retos-web-p2/P2-E3->Irish-Name-Repo 3.md",
+    "retos-web-p2/P2-E2->Irish-Name-Repo 2.md",
+    "retos-web-p2/P2-E1->Irish-Name-Repo 1.md",
+    "retos-web-p2/P2-E4->JaWT Scratchpad.md",
+    "retos-web-p1/P1-E6->Client-side-again.md",
+    "pico-CTF/A3-E5->runme.py.md",
+    "retos-web-p2",
     "pico-CTF/A3-E7->plumbing.md",
     "pico-CTF/A3-E6->Based.md",
-    "pico-CTF/A3-E5->runme.py.md",
     "pico-CTF/A3-E3->PW Crack 2.md",
     "pico-CTF/A3-E4->PW Crack 3.md",
     "pico-CTF/A3-E2->PW Crack 1.md",
@@ -182,11 +175,6 @@
     "pico-CTF/A1-E5->Tab, Tab, Attack.md",
     "pico-CTF/A1-E3->Nice netcat....md",
     "pico-CTF/A1-E4->Static ain't always noise.md",
-    "pico-CTF/A1-E2->Wave a flag.md",
-    "pico-CTF/A1-E1->Obedient Cat.md",
-    "retos-web-p1/P1-E2->where are the robots.md",
-    "retos-web-p1/P1-E6->Client-side-again.md",
-    "retos-web-p1/P1-E5->picobrowser.md",
     "retos-web-p1",
     "pico-CTF",
     "retos-bandit",
