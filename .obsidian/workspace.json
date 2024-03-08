@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md",
+                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md",
+                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md",
+                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-p2/P2-E4->JaWT Scratchpad.md"
+                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "491b98d0b9362b9d",
   "lastOpenFiles": [
+    "retos-web-p3/P3-E1->GET aHEAD.md",
+    "retos-web-p3/P3-E2->Cookies.md",
+    "retos-web-p3/P3-E3->Scavenger Hunt.md",
+    "retos-web-p2/P2-E4->JaWT Scratchpad.md",
+    "retos-web-p3",
     "retos-web-p2/P2-E3->Irish-Name-Repo 3.md",
     "retos-web-p2/P2-E2->Irish-Name-Repo 2.md",
     "retos-web-p2/P2-E1->Irish-Name-Repo 1.md",
-    "retos-web-p2/P2-E4->JaWT Scratchpad.md",
     "retos-web-p1/P1-E6->Client-side-again.md",
     "pico-CTF/A3-E5->runme.py.md",
     "retos-web-p2",
@@ -172,9 +176,6 @@
     "pico-CTF/A1-E8->Warmed Up.md",
     "pico-CTF/A1-E7->Lets Warm Up.md",
     "pico-CTF/A1-E6->Magikarp Ground Mission.md",
-    "pico-CTF/A1-E5->Tab, Tab, Attack.md",
-    "pico-CTF/A1-E3->Nice netcat....md",
-    "pico-CTF/A1-E4->Static ain't always noise.md",
     "retos-web-p1",
     "pico-CTF",
     "retos-bandit",
