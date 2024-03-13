@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f04cbfaec9faf4d",
+        "id": "c8f7ddbc959635ea",
         "type": "tabs",
         "children": [
           {
-            "id": "491b98d0b9362b9d",
+            "id": "536f1fd1609bb2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md",
+                "file": "retos-forensic-p1/P1-E4->What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md",
+                "file": "retos-forensic-p1/P1-E4->What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md",
+                "file": "retos-forensic-p1/P1-E4->What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-p3/P3-E3->Scavenger Hunt.md"
+                "file": "retos-forensic-p1/P1-E4->What Lies Within.md"
               }
             }
           }
@@ -146,11 +146,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "491b98d0b9362b9d",
+  "active": "536f1fd1609bb2cb",
   "lastOpenFiles": [
+    "retos-forensic-p1/P1-E4->So Meta.md",
+    "retos-forensic-p1/P1-E4->What Lies Within.md",
+    "retos-forensic-p1/P1-E3->shark on wire 1.md",
+    "retos-forensic-p1/P1-E2->extensions.md",
+    "retos-forensic-p1/P1-E1->Glory of the Garden.md",
+    "retos-web-p1/P1-E1->Insp3ctor.md",
+    "retos-web-p1/P1-E2->where are the robots.md",
+    "Sin título.md",
+    "retos-forensic-p1",
+    "retos-web-p3/P3-E3->Scavenger Hunt.md",
     "retos-web-p3/P3-E1->GET aHEAD.md",
     "retos-web-p3/P3-E2->Cookies.md",
-    "retos-web-p3/P3-E3->Scavenger Hunt.md",
     "retos-web-p2/P2-E4->JaWT Scratchpad.md",
     "retos-web-p3",
     "retos-web-p2/P2-E3->Irish-Name-Repo 3.md",
@@ -168,14 +177,6 @@
     "pico-CTF/A2-E8->what's a net cat?.md",
     "pico-CTF/A2-E7->strings it.md",
     "pico-CTF/A2-E6->fixme1.py.md",
-    "pico-CTF/A2-E5->First Grep.md",
-    "pico-CTF/A2-E4->convertme.py.md",
-    "pico-CTF/A2-E3->Codebook.md",
-    "pico-CTF/A2-E2->Bases.md",
-    "pico-CTF/A2-E1->2Warm.md",
-    "pico-CTF/A1-E8->Warmed Up.md",
-    "pico-CTF/A1-E7->Lets Warm Up.md",
-    "pico-CTF/A1-E6->Magikarp Ground Mission.md",
     "retos-web-p1",
     "pico-CTF",
     "retos-bandit",
