@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-forensic-p1/P1-E4->What Lies Within.md",
+                "file": "retos-foresinc-p2/P2-E5->shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-forensic-p1/P1-E4->What Lies Within.md",
+                "file": "retos-foresinc-p2/P2-E5->shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-forensic-p1/P1-E4->What Lies Within.md",
+                "file": "retos-foresinc-p2/P2-E5->shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-forensic-p1/P1-E4->What Lies Within.md"
+                "file": "retos-foresinc-p2/P2-E5->shark on wire 2.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "536f1fd1609bb2cb",
   "lastOpenFiles": [
+    "retos-forensic-p1/P1-E3->shark on wire 1.md",
+    "retos-foresinc-p2/P2-E5->shark on wire 2.md",
+    "retos-foresinc-p2/P2-E4->like1000.md",
+    "retos-foresinc-p2/P2-E1->m00nwalk.md",
+    "retos-foresinc-p2/P2-E3->c0rrupt.md",
+    "retos-foresinc-p2/P2-E2->WhitePages.md",
+    "retos-forensic-p1/P1-E2->extensions.md",
     "retos-forensic-p1/P1-E4->So Meta.md",
     "retos-forensic-p1/P1-E4->What Lies Within.md",
-    "retos-forensic-p1/P1-E3->shark on wire 1.md",
-    "retos-forensic-p1/P1-E2->extensions.md",
+    "retos-foresinc-p2",
     "retos-forensic-p1/P1-E1->Glory of the Garden.md",
     "retos-web-p1/P1-E1->Insp3ctor.md",
     "retos-web-p1/P1-E2->where are the robots.md",
@@ -172,11 +178,6 @@
     "pico-CTF/A3-E6->Based.md",
     "pico-CTF/A3-E3->PW Crack 2.md",
     "pico-CTF/A3-E4->PW Crack 3.md",
-    "pico-CTF/A3-E2->PW Crack 1.md",
-    "pico-CTF/A3-E1->fixme2.py.md",
-    "pico-CTF/A2-E8->what's a net cat?.md",
-    "pico-CTF/A2-E7->strings it.md",
-    "pico-CTF/A2-E6->fixme1.py.md",
     "retos-web-p1",
     "pico-CTF",
     "retos-bandit",
