@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-RetosCrypto/P1-E7->waves over lambda.md",
+                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-RetosCrypto/P1-E7->waves over lambda.md",
+                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-RetosCrypto/P1-E7->waves over lambda.md",
+                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-RetosCrypto/P1-E7->waves over lambda.md"
+                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "7bdeb5d083b8b37a",
   "lastOpenFiles": [
-    "picoCTF-RetosCrypto/P1-E6->Tapping.md",
+    "RetosCrypto_pt1/the_numbers.png",
+    "RetosCrypto_pt1/ciphertext",
+    "RetosCrypto_pt1/table.txt",
+    "RetosCrypto_pt1",
+    "picoCTF-RetosCryptoPt2/P2-E1->rsa pop quiz.md",
+    "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
+    "picoCTF-RetosCryptoPt2/P2-E2->miniRSA.md",
+    "RetosCrypto_pt2/ciphertext",
+    "RetosCrypto_pt2",
+    "picoCTF-RetosCryptoPt2/P2-E1->.md",
     "picoCTF-RetosCrypto/P1-E7->waves over lambda.md",
+    "picoCTF-RetosCryptoPt2",
+    "picoCTF-RetosCrypto/P1-E6->Tapping.md",
     "picoCTF-RetosCrypto/P1-E5->la cifra de.md",
     "picoCTF-RetosCrypto/P1-E2->Easy 1.md",
     "picoCTF-RetosCrypto/P1-E4->caesar.md",
@@ -159,14 +170,11 @@
     "picoCTF-RetosCrypto/P1-E1->The Numbers.md",
     "RetosCrypo_pt1/the_numbers.png",
     "RetosCrypo_pt1",
-    "picoCTF-RetosCrypto/P1-E2->.md",
     "picoCTF-2doParcial-RetosWeb/P2-E7->St3g0.md",
     "picoCTF-RetosCrypto",
     "picoCTF-2doParcial-RetosWeb/pico.flag.png",
     "picoCTF-2doParcial-RetosWeb/P2-E6->Redaction gone wrong.md",
-    "picoCTF-2doParcial-RetosWeb/Financial_Report_for_ABC_Labs.pdf",
     "picoCTF-2doParcial-RetosWeb/P2-E5->Packets Primer.md",
-    "picoCTF-2doParcial-RetosWeb/network-dump.flag.pcap",
     "picoCTF-2doParcial-RetosWeb/P2-E4->Lookey here.md",
     "retos-bandit/Level 32->33.md",
     "retos-bandit/Level 27->28.md",
@@ -178,14 +186,7 @@
     "retos-bandit/Level 31->32.md",
     "retos-bandit/Level 29->30.md",
     "retos-bandit/Level 28->29.md",
-    "retos-bandit/Level 26->27.md",
-    "retos-bandit/Level 25->26.md",
-    "retos-bandit/Level 24->25.md",
-    "picoCTF-2doParcial-RetosWeb/anthem.flag.txt",
     "picoCTF-2doParcial-RetosWeb/drawing.flag.svg",
-    "picoCTF-2doParcial-RetosWeb/shark1.pcapng",
-    "picoCTF-2doParcial-RetosWeb/cat.jpg",
-    "picoCTF-2doParcial-RetosWeb",
-    "picoCTF-2024"
+    "picoCTF-2doParcial-RetosWeb/cat.jpg"
   ]
 }
