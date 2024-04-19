@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
+                "file": "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 248.5
   },
   "right": {
     "id": "c02e81ba608f5947",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
+                "file": "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
+                "file": "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md"
+                "file": "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md"
               }
             }
           }
@@ -148,30 +148,39 @@
   },
   "active": "7bdeb5d083b8b37a",
   "lastOpenFiles": [
+    "RetosCrypto_pt3/readmycert.csr",
+    "picoCTF-RetosCryptoPT3/P3-E4->HideToSee.md",
+    "RetosCrypto_pt3/encrypted.txt",
+    "RetosCrypto_pt3/atbash.jpg",
+    "picoCTF-RetosCryptoPT3/P3-E2->Pixelated.md",
+    "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md",
+    "picoCTF-RetosCryptoPT3/P3-E3->basic-mod1.md",
+    "picoCTF-RetosCryptoPT3/P3-E1->Mind your Ps and Qs.md",
+    "RetosCrypto_pt3/scrambled1.png",
+    "RetosCrypto_pt3/scrambled2.png",
+    "picoCTF-RetosCryptoPT3/P3-E1->.md",
+    "RetosCrypto_pt3/exp.py",
+    "RetosCrypto_pt3/message.txt",
+    "picoCTF-RetosCryptoPt2/P2-E2->miniRSA.md",
+    "picoCTF-RetosCryptoPt2/P2-E1->rsa pop quiz.md",
+    "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
+    "RetosCrypto_pt3/values",
+    "RetosCrypto_pt3",
+    "picoCTF-RetosCryptoPT3",
     "RetosCrypto_pt1/the_numbers.png",
     "RetosCrypto_pt1/ciphertext",
     "RetosCrypto_pt1/table.txt",
     "RetosCrypto_pt1",
-    "picoCTF-RetosCryptoPt2/P2-E1->rsa pop quiz.md",
-    "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
-    "picoCTF-RetosCryptoPt2/P2-E2->miniRSA.md",
     "RetosCrypto_pt2/ciphertext",
-    "RetosCrypto_pt2",
-    "picoCTF-RetosCryptoPt2/P2-E1->.md",
     "picoCTF-RetosCrypto/P1-E7->waves over lambda.md",
-    "picoCTF-RetosCryptoPt2",
     "picoCTF-RetosCrypto/P1-E6->Tapping.md",
     "picoCTF-RetosCrypto/P1-E5->la cifra de.md",
     "picoCTF-RetosCrypto/P1-E2->Easy 1.md",
     "picoCTF-RetosCrypto/P1-E4->caesar.md",
     "picoCTF-RetosCrypto/P1-E3->13.md",
-    "RetosCrypo_pt1/ciphertext",
-    "RetosCrypo_pt1/table.txt",
     "picoCTF-RetosCrypto/P1-E1->The Numbers.md",
     "RetosCrypo_pt1/the_numbers.png",
-    "RetosCrypo_pt1",
     "picoCTF-2doParcial-RetosWeb/P2-E7->St3g0.md",
-    "picoCTF-RetosCrypto",
     "picoCTF-2doParcial-RetosWeb/pico.flag.png",
     "picoCTF-2doParcial-RetosWeb/P2-E6->Redaction gone wrong.md",
     "picoCTF-2doParcial-RetosWeb/P2-E5->Packets Primer.md",
@@ -181,11 +190,6 @@
     "retos-bandit/Level 6->7.md",
     "retos-bandit/Level 5->6.md",
     "retos-bandit/Level 4->5.md",
-    "retos-bandit/Level 3->4.md",
-    "retos-bandit/Level 11->12.md",
-    "retos-bandit/Level 31->32.md",
-    "retos-bandit/Level 29->30.md",
-    "retos-bandit/Level 28->29.md",
     "picoCTF-2doParcial-RetosWeb/drawing.flag.svg",
     "picoCTF-2doParcial-RetosWeb/cat.jpg"
   ]
