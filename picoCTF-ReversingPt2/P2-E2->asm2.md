@@ -25,8 +25,22 @@ asm2:
 	<+43>:	leave  
 	<+44>:	ret 
 ```
+
+En esencia, este código lo que hace es un ciclo que se repite 118 veces, hasta que la condición dada sea falsa. Cada y que se realiza un ciclo se le suma 1 a nuestra variable inicial, la cual fue `0x2d`. 
+
+Realizando las 118 iteraciones al valor `0x2d`, obtendremos como resultado `0xa3`. Esta es nuestra bandera resultante.
+
 ## Notas adicionales
 
-
+- `push`-> Empuja un valor en la pila.
+- `mov`-> Mueve datos de una ubicación a otra.
+- `sub`-> Resta un operando de otro.
+- `jmp`-> Salto incondicional a una dirección especificada.
+- `add`-> Suma un operando a otro.
+- `cmp`-> Compara dos operandos.
+- `jle`-> Salto si menor o igual (se utiliza para comparaciones con signo).
+- `leave`-> Libera el marco de la pila.
+- `ret`-> Retorna de una subrutina.
 ## Referencias
 
+https://www.cs.virginia.edu/~evans/cs216/guides/x86.html

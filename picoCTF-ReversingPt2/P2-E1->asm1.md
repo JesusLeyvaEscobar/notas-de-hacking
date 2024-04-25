@@ -62,7 +62,30 @@ asm1:
         <+60>:  pop    ebp
         <+61>:  ret  
 ```
+Haremos las operaciones correspondientes:
 
+`<+3>:   cmp    DWORD PTR [ebp+0x8],0x3fb`
+ Compara `0x3fb` con el contenido de `ebp + 0x8` que es `[0x2e0  ]`
+ y al hacer las operaciones en python obtenemos:
+```
+>>> 0x2e0 > 0x3fb
+False
+```
+Como esta comparación no es verdadera, no va a realizar la siguiente instrucción que es:
+`jg     0x512 <asm1+37>`
+sino que va a la siguiente comparacion de 
+`cmp    DWORD PTR [ebp+0x8],0x280` 
+con el mismo contenido de `ebp + 0x8` que es `[0x2e0  ]`
+y al realizarlo en python obtenemos:
+```
+>>> 0x2e0 > 0x280
+True
+```
+Y asi realizaremos las operaciones necesarias segun las condiciones de comparación.
+
+Al final, el registro `eax` almacena nuestro resultado, el cual fue: `0x2d6`.
+
+Todas operaciones que se realizaron en python fueron las siguientes:
 ```
 ┌──(jesus㉿KaliJesus)-[~]
 └─$ python3
@@ -72,10 +95,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 False
 >>> 0x2e0 > 0x280
 True
->>> hex (0x2e0 + 0xa)
-'0x2ea'
 >>> hex (0x2e0 - 0xa)
-'0x2d6' ***
+'0x2d6
 >>> 
 ```
 
@@ -85,8 +106,8 @@ True
 - `JMP`-> La instrucción JMP proporciona un nombre de etiqueta donde el flujo de control se transfiere inmediatamente. Existen varios tipos de Saltos, con diferentes condiciones para realizar la acion.
 - `DWORD`-> 
 - `PUSH`-> Coloca su operando en la parte superior de la pila compatible con hardware en la memoria.
-- `POP`->
-- `Conve`-> 
+- `POP`-> Elimina el elemento de datos de 4 bytes de la parte superior de la pila soportada por hardware en el operando especificado.
 - `EBP`->Apuntador que se queda en la parte de abajo de una pila.
 ## Referencias
 
+https://www.cs.virginia.edu/~evans/cs216/guides/x86.html

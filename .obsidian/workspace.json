@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25bfafe53e5e8658",
+        "id": "5e11089c2e0c71cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7bdeb5d083b8b37a",
+            "id": "e674d469dfbb0ade",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-ReversingPt1/P1-E5->vault-door-5.md",
+                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "c02e81ba608f5947",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-ReversingPt1/P1-E5->vault-door-5.md",
+                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-ReversingPt1/P1-E5->vault-door-5.md",
+                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-ReversingPt1/P1-E5->vault-door-5.md"
+                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md"
               }
             }
           }
@@ -146,10 +147,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7bdeb5d083b8b37a",
+  "active": "e674d469dfbb0ade",
   "lastOpenFiles": [
-    "picoCTF-ReversingPt1/P1-E4->vault-door-4.md",
+    "ReversingPT2/test.S.3",
+    "picoCTF-ReversingPt2/P2-E2->asm2.md",
+    "picoCTF-ReversingPt2/P2-E1->asm1.md",
     "picoCTF-ReversingPt1/P1-E5->vault-door-5.md",
+    "picoCTF-ReversingPt1/P1-E4->vault-door-4.md",
     "ReversingPT1/VaultDoor5.java",
     "ReversingPT1/VaultDoor4.java",
     "picoCTF-ReversingPt1/P1-E3->vault-door-3.md",
@@ -163,10 +167,8 @@
     "ReversingPT1",
     "picoCTF-ReversingPt2/P2-E3->asm3.md",
     "picoCTF-ReversingPt2/P3-E1->.md",
-    "picoCTF-ReversingPt2/P2-E2->asm2.md",
     "ReversingPT2/test.S.2",
     "ReversingPT2/test.S.1",
-    "picoCTF-ReversingPt2/P2-E1->asm1.md",
     "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md",
     "picoCTF-RetosCryptoPT3/P3-E4->HideToSee.md",
     "RetosCrypto_pt3/atbash.jpg",
