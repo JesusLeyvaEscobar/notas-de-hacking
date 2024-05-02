@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e11089c2e0c71cc",
+        "id": "4f383dd9e7693b55",
         "type": "tabs",
         "children": [
           {
-            "id": "e674d469dfbb0ade",
+            "id": "7b345d4cc34af24d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md",
+                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "c02e81ba608f5947",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md",
+                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md",
+                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-ReversingPt2/P2-E3->asm3.md"
+                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md"
               }
             }
           }
@@ -147,28 +146,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e674d469dfbb0ade",
+  "active": "7b345d4cc34af24d",
   "lastOpenFiles": [
-    "ReversingPT2/test.S.3",
+    "picoCTF-ReversingPt3/P3-E3->reverse_cipher.md",
+    "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
+    "ReversingPT3/need-for-speed",
+    "picoCTF-ReversingPt3/P3-E2->Safe Opener 2.md",
+    "ReversingPT3/SafeOpener.class",
+    "picoCTF-ReversingPt3/P3-E1->GDB Test Drive.md",
+    "picoCTF-ReversingPt3/P3-E1->.md",
+    "ReversingPT3/gdbme",
+    "ReversingPT3/gdbme.1",
+    "ReversingPT3/myproject.rep/idata/~journal.bak",
+    "ReversingPT3/myproject.rep/idata/~index.bak",
+    "ReversingPT3/myproject.rep/versioned/~index.bak",
+    "ReversingPT3/myproject.rep/projectState",
+    "ReversingPT3/myproject.rep/user/00/~00000000.db/db.1.gbf",
+    "ReversingPT3/myproject.rep/user/00/~00000000.db",
+    "picoCTF-ReversingPt2/P2-E3->asm3.md",
     "picoCTF-ReversingPt2/P2-E2->asm2.md",
     "picoCTF-ReversingPt2/P2-E1->asm1.md",
     "picoCTF-ReversingPt1/P1-E5->vault-door-5.md",
     "picoCTF-ReversingPt1/P1-E4->vault-door-4.md",
-    "ReversingPT1/VaultDoor5.java",
-    "ReversingPT1/VaultDoor4.java",
     "picoCTF-ReversingPt1/P1-E3->vault-door-3.md",
-    "ReversingPT1/VaultDoor3.java",
     "picoCTF-ReversingPt1/P1-E2->vault-door-1.md",
     "picoCTF-ReversingPt1/P1-E1->vault-door-training.md",
-    "ReversingPT1/VaultDoor1.class",
-    "ReversingPT1/bandera",
-    "ReversingPT1/VaultDoor1.java",
-    "ReversingPT1/VaultDoorTraining.java",
-    "ReversingPT1",
-    "picoCTF-ReversingPt2/P2-E3->asm3.md",
-    "picoCTF-ReversingPt2/P3-E1->.md",
-    "ReversingPT2/test.S.2",
-    "ReversingPT2/test.S.1",
     "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md",
     "picoCTF-RetosCryptoPT3/P3-E4->HideToSee.md",
     "RetosCrypto_pt3/atbash.jpg",
@@ -185,11 +187,7 @@
     "picoCTF-RetosCrypto/P1-E6->Tapping.md",
     "picoCTF-RetosCrypto/P1-E5->la cifra de.md",
     "picoCTF-RetosCrypto/P1-E2->Easy 1.md",
-    "picoCTF-RetosCrypto/P1-E4->caesar.md",
-    "picoCTF-RetosCrypto/P1-E3->13.md",
-    "picoCTF-RetosCrypto/P1-E1->The Numbers.md",
     "RetosCrypo_pt1/the_numbers.png",
-    "picoCTF-2doParcial-RetosWeb/P2-E7->St3g0.md",
     "picoCTF-2doParcial-RetosWeb/pico.flag.png",
     "picoCTF-2doParcial-RetosWeb/drawing.flag.svg",
     "picoCTF-2doParcial-RetosWeb/cat.jpg"
