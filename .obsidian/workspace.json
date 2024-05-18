@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
+                "file": "picoCTF-3erParcial-RetosCrypto/P1-E10->SRA.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "right": {
     "id": "c02e81ba608f5947",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
+                "file": "picoCTF-3erParcial-RetosCrypto/P1-E10->SRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
+                "file": "picoCTF-3erParcial-RetosCrypto/P1-E10->SRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-ReversingPt3/P3-E4->Need For Speed.md"
+                "file": "picoCTF-3erParcial-RetosCrypto/P1-E10->SRA.md"
               }
             }
           }
@@ -148,45 +148,46 @@
   },
   "active": "7b345d4cc34af24d",
   "lastOpenFiles": [
-    "picoCTF-ReversingPt3/P3-E3->reverse_cipher.md",
-    "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
-    "ReversingPT3/need-for-speed",
-    "picoCTF-ReversingPt3/P3-E2->Safe Opener 2.md",
-    "ReversingPT3/SafeOpener.class",
-    "picoCTF-ReversingPt3/P3-E1->GDB Test Drive.md",
-    "picoCTF-ReversingPt3/P3-E1->.md",
-    "ReversingPT3/gdbme",
-    "ReversingPT3/gdbme.1",
-    "ReversingPT3/myproject.rep/idata/~journal.bak",
-    "ReversingPT3/myproject.rep/idata/~index.bak",
-    "ReversingPT3/myproject.rep/versioned/~index.bak",
-    "ReversingPT3/myproject.rep/projectState",
-    "ReversingPT3/myproject.rep/user/00/~00000000.db/db.1.gbf",
-    "ReversingPT3/myproject.rep/user/00/~00000000.db",
-    "picoCTF-ReversingPt2/P2-E3->asm3.md",
-    "picoCTF-ReversingPt2/P2-E2->asm2.md",
-    "picoCTF-ReversingPt2/P2-E1->asm1.md",
-    "picoCTF-ReversingPt1/P1-E5->vault-door-5.md",
-    "picoCTF-ReversingPt1/P1-E4->vault-door-4.md",
-    "picoCTF-ReversingPt1/P1-E3->vault-door-3.md",
-    "picoCTF-ReversingPt1/P1-E2->vault-door-1.md",
-    "picoCTF-ReversingPt1/P1-E1->vault-door-training.md",
-    "picoCTF-RetosCryptoPT3/P3-E5->ReadMyCert.md",
-    "picoCTF-RetosCryptoPT3/P3-E4->HideToSee.md",
-    "RetosCrypto_pt3/atbash.jpg",
-    "picoCTF-RetosCryptoPT3/P3-E2->Pixelated.md",
-    "picoCTF-RetosCryptoPT3/P3-E3->basic-mod1.md",
-    "picoCTF-RetosCryptoPT3/P3-E1->Mind your Ps and Qs.md",
-    "RetosCrypto_pt3/scrambled1.png",
-    "RetosCrypto_pt3/scrambled2.png",
-    "picoCTF-RetosCryptoPt2/P2-E2->miniRSA.md",
-    "picoCTF-RetosCryptoPt2/P2-E1->rsa pop quiz.md",
-    "picoCTF-RetosCryptoPt2/P2-E3->b00tl3gRSA2.md",
-    "RetosCrypto_pt1/the_numbers.png",
+    "picoCTF-3erParcial-RetosCrypto/P1-E9->Mr-Worldwide.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E8->Flags.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E7->C3.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E6->Play Nice.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E5->Vigenere.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E4->substitution1.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E3->substitution0.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E2->morse-code.md",
+    "picoCTF-3erParcial-RetosCrypto/P1-E1->No Padding, NO Problem.md",
+    "picoCTF-3erParcial-RetosCrypto/P2-E10->GDB baby step 2.md",
+    "3erParcial-RetosReversing/debugger0_b",
+    "picoCTF-3erParcial-RetosCrypto/P2-E9->GDB baby step 1.md",
+    "3erParcial-RetosReversing/debugger0_a",
+    "picoCTF-3erParcial-RetosCrypto/P2-E8-> Bit-O-Asm-4.md",
+    "3erParcial-RetosReversing/disassembler-dump0_d.txt",
+    "picoCTF-3erParcial-RetosCrypto/P2-E7-> Bit-O-Asm-3.md",
+    "3erParcial-RetosReversing/disassembler-dump0_c.txt",
+    "picoCTF-3erParcial-RetosCrypto/P2-E6-> Bit-O-Asm-2.md",
+    "3erParcial-RetosReversing/disassembler-dump0_b.txt",
+    "picoCTF-3erParcial-RetosCrypto/P2-E5-> Bit-O-Asm-1.md",
+    "picoCTF-3erParcial-RetosCrypto/P2-E4->ASCII FTW.md",
+    "3erParcial-RetosReversing/disassembler-dump0_a.txt",
+    "picoCTF-3erParcial-RetosCrypto/P2-E3->keygenme-py.md",
+    "3erParcial-RetosReversing/asciiftw",
+    "picoCTF-3erParcial-RetosCrypto/P2-E2->crackme-py.md",
+    "3erParcial-RetosReversing/keygenme-trial.py",
+    "3erParcial-RetosReversing/crackme.py",
+    "picoCTF-3erParcial-RetosCrypto/P2-E1->.md",
+    "picoCTF-3erParcial-RetosCrypto/P2-E1->Transformation.md",
+    "3erParcial-RetosReversing/enc",
+    "picoCTF-3erParcial-RetosCrypto/P1-E10->SRA.md",
+    "3erParcial-RetosCrypto/flag.png",
     "picoCTF-RetosCrypto/P1-E7->waves over lambda.md",
     "picoCTF-RetosCrypto/P1-E6->Tapping.md",
     "picoCTF-RetosCrypto/P1-E5->la cifra de.md",
-    "picoCTF-RetosCrypto/P1-E2->Easy 1.md",
+    "picoCTF-ReversingPt3/P3-E4->Need For Speed.md",
+    "RetosCrypto_pt3/atbash.jpg",
+    "RetosCrypto_pt3/scrambled1.png",
+    "RetosCrypto_pt3/scrambled2.png",
+    "RetosCrypto_pt1/the_numbers.png",
     "RetosCrypo_pt1/the_numbers.png",
     "picoCTF-2doParcial-RetosWeb/pico.flag.png",
     "picoCTF-2doParcial-RetosWeb/drawing.flag.svg",
